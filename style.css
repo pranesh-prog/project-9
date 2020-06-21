@@ -1,0 +1,247 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background-color: #7F57F5;
+    padding: 15px 0;
+}
+.container{
+    width: 1000px;
+    margin: auto;
+    overflow: hidden;
+}
+.logo{
+    width: 20%;
+    float: left;
+}
+.logo img{
+    max-width: 100%;
+}
+.navbar{
+    width: 80%;
+    float: left;
+}
+.navbar ul{
+    text-align: right;
+}
+.navbar ul li{
+    display: inline-block;
+}
+.navbar ul li a{
+    text-decoration: none;
+    padding: 10px 20px;
+    display: block;
+    color: white;
+}
+.navbar ul li a:hover{
+    background-color: #52AFA2;
+    border-radius: 10px;
+}
+.process{
+    padding-top: 80px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+.process h1{
+    font-size: 40px;
+    color: white;
+}
+.process p{
+    font-size: 15px;
+    color: white;
+    padding: 20px 0;
+    line-height: 1.5;
+}
+
+.sec-1{
+    padding: 30px 0;
+}
+.one{
+    width: 50%;
+    float: left;
+}
+.one img{
+    height: 50px;
+}
+.one h2{
+    padding: 10px 0;
+}
+.one p{
+    line-height: 1.5;
+    text-align: justify;
+    max-width: 300px;
+}
+.image-1{
+    width: 50%;
+    float: left;
+}
+.image-1 img{
+    max-width: 400px;
+}
+
+
+.sec-2{
+    padding: 30px 0;
+}
+.image-2{
+    width: 50%;
+    float: left;
+}
+.image-2 img{
+    max-width: 300px;
+}
+.two{
+    width: 50%;
+    float: left;
+}
+.two img{
+    height: 50px;
+}
+.two h2{
+    padding: 10px 0;
+    max-width: 300px;
+}
+.two p{
+    text-align: justify;
+    line-height: 1.5;
+    max-width: 300px;
+}
+
+.sec-3{
+    padding: 30px 0;
+}
+.three{
+    width: 50%;
+    float: left;
+}
+.three img{
+    height: 50px;
+}
+.three h2{
+    padding: 10px 0;
+    max-width: 400px;
+}
+.three p{
+    text-align: justify;
+    line-height: 1.5;
+    max-width: 300px;
+}
+.image-3{
+    width: 50%;
+    float: left;
+}
+.image-3 img{
+    max-height: 300px;
+}
+
+
+.sec-4{
+    padding: 30px 0;
+}
+.image-4{
+    width: 50%;
+    float: left;
+}
+.image-4 img{
+    max-width: 100%;
+    max-height: 300px;
+}
+.four{
+    width: 50%;
+    float: left;
+}
+.four img{
+    height: 50px;
+}
+.four h2{
+    padding: 10px 0;
+    width: 400px;
+}
+.four p{
+    text-align: justify;
+    line-height: 1.5;
+    max-width: 300px;
+}
+button{
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #52AFA2;
+    color: white;
+}
+button:hover{
+    background-color: #e9da04;
+}
+
+
+.sec-5{
+    padding: 30px 0;
+}
+.five{
+    width: 50%;
+    float: left;
+}
+.five img{
+    height: 50px;
+}
+.five h2{
+    padding: 10px 0;
+    max-width: 400px;
+}
+.five p{
+    padding: 10px 0;
+    text-align: justify;
+    line-height: 1.5;
+    max-width: 300px;
+}
+.image-5{
+    width: 50%;
+    float: left;
+}
+.image-5 img{
+    max-height: 300px;
+}
+
+
+footer{
+    background-color: #E0E0E0;
+    margin-top: 70px;
+    padding-top: 30px;
+}
+.col-1-4{
+    width: 25%;
+    float: left;
+}
+.col-1-4 img{
+    max-height: 30px;
+}
+.col-1-4 p{
+    padding: 10px 0;
+    line-height: 1.5;
+    text-align: justify;
+    max-width: 200px;
+}
+.col-1-4 h2{
+    font-size: 15px;
+}
+.col-1-4 ul{
+    padding: 10px 0;
+    list-style: none;
+}
+.col-1-4 ul li{
+    padding: 10px 0;
+}
+.col-1-4 ul li a{
+    text-decoration: none;
+    color: #505050;
+}
+
+.bg-footer img{
+    max-width: 100%;
+}
+
+
